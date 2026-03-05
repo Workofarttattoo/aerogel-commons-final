@@ -138,5 +138,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for the global materials science community**
 
-[🌐 Website](https://aerogelcommons.org) | [📧 Contact](mailto:info@aerogelcommons.org) | [🐦 Twitter](https://twitter.com/aerogelcommons)</contents>
+[🌐 Website](https://aerogelcommons.org) | [📧 Contact](mailto:info@aerogelcommons.org) | [🐦 Twitter](https://twitter.com/aerogelcommons)
+
+## 🏗️ Repository Setup
+
+**Status**: Repository created and ready for GitHub deployment
+
+To complete the setup:
+1. Create repository on GitHub: `github.com/YOUR_USERNAME/aerogel-commons`
+2. Run setup script: `./setup_github.sh`
+3. Enable GitHub features: Issues, Discussions, Wiki, Pages
+
+All code is committed and ready to push!</contents>
 </xai:function_call">Creating the main README for the open-source aerogel project
